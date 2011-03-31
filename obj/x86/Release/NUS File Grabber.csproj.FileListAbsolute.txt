@@ -1,0 +1,10 @@
+C:\Documents and Settings\Aziz\Local Settings\Application Data\Temporary Projects\NUS File Grabber\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Aziz\Local Settings\Application Data\Temporary Projects\NUS File Grabber\bin\Release\NUS File Grabber.exe
+C:\Documents and Settings\Aziz\Local Settings\Application Data\Temporary Projects\NUS File Grabber\bin\Release\NUS File Grabber.pdb
+C:\Documents and Settings\Aziz\Local Settings\Application Data\Temporary Projects\NUS File Grabber\obj\x86\Release\NUS File Grabber.exe
+C:\Documents and Settings\Aziz\Local Settings\Application Data\Temporary Projects\NUS File Grabber\obj\x86\Release\NUS File Grabber.pdb
+C:\Users\Shadow\Desktop\Coding\NUS Grabber\NUS File Grabber\obj\x86\Release\NUS File Grabber.exe
+C:\Users\Shadow\Desktop\Coding\NUS Grabber\NUS File Grabber\obj\x86\Release\NUS File Grabber.pdb
+C:\Users\Shadow\Desktop\Coding\NUS Grabber\NUS File Grabber\bin\Release\NUS File Grabber.exe
+C:\Users\Shadow\Desktop\Coding\NUS Grabber\NUS File Grabber\bin\Release\NUS File Grabber.pdb
+C:\Users\Shadow\Desktop\Coding\NUS Grabber\NUS File Grabber\obj\x86\Release\ResolveAssemblyReference.cache
