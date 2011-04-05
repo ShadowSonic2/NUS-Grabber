@@ -1,0 +1,6 @@
+A Command Line NUS Grabber tool by BluPhant and ShadowSonic2 (Mostly Blu).
+Some code borrowed from WiiNinja and WB3000.
+
+Simple command line tool that'll grab titles from NUS (Nintendo Update Servers) and pack them as installable .wads. Great for doing batch downloads via .bat scripts for users who won't know how to operate NUS and need these files to do an offline homebrew hack on their Wii..
+
+Currently, NUS-Grabber works but looks like it packs the .wads encrypted. Remember, with all .wads, you're taking a risk when installing them. The creators of this software or any homebrew cannot be responsible for what you do to your console. Anything done to your console is at your own risk.
